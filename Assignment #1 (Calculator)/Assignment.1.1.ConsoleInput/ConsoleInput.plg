@@ -1,0 +1,20 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+U:\CS1021 (Computing) Projects\Assignment #1 (Calculator)\Assignment.1.1.ConsoleInput\ConsoleInput.uvproj
+Project File Date:  11/12/2015
+
+<h2>Output:</h2>
+Rebuild target 'Simulator'
+assembling ConsoleInput.s...
+ConsoleInput.s(1): error: A1163E: Unknown opcode Sets, , expecting opcode or Macro
+ConsoleInput.s(5): error: A1355U: A Label was found which was in no AREA
+".\ConsoleInput.axf" - 2 Errors, 0 Warning(s).
+Target not created
+Rebuild target 'Simulator'
+assembling ConsoleInput.s...
+linking...
+Program Size: Code=832 RO-data=32 RW-data=128 ZI-data=4360  
+".\ConsoleInput.axf" - 0 Errors, 0 Warning(s).
